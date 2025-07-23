@@ -1,1 +1,1 @@
-##Detecting cracks of bricks in construction
+#Detecting cracks of bricks in construction
